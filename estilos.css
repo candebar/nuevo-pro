@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10 px;
+}
+
+header {
+    color: rgb(23, 139, 234);
+    padding: 2rem;
+    height: 10vh;
+    background-image: url(./imagenes/fondo2.jpg)
+}
+
+#abme {
+    color: rgb(189, 36, 140);
+}
+
+#abme {
+    background-color: lavender;
+}
+
+.bcgr li {
+    display: inline;
+    padding: 2rem;
+}
+
+.bcgr {
+    list-style: none;
+    text-align: center;
+}
+
+.bcgr {
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.bcgr{
+    font-weight: 700
+}
+.bcgr a{
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+.boxi{
+    width: 200px;
+    height: 250px;
+    background-color: fuchsia;
+}
+.boxi{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.boxi{
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+.boxi{
+    border: 5px;
+    border-style: dotted;
+    border-color:yellow ;
+
+}
